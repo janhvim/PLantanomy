@@ -1,0 +1,9 @@
+Plant name : Varchar[255]
+Plant type : varchar[255]
+height: float
+light : [Shade, sunny,...] :varchar[255]
+special features : varchar[255]
+season features : varchar[255]
+information : Text
+region found : varchar[255]
+plant_image: longblob
